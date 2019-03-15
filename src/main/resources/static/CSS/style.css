@@ -1,6 +1,6 @@
 html,body {
-	height:100%;
-	background:white;
+	height:75%;
+	background:blue;
 }
 header {
 	display:block;
@@ -8,7 +8,7 @@ header {
 	padding:10px 0px;
 }
 section {
-	width: 79%;
+	width: 88%;
 	float: left;
 	overflow: auto;
 	padding-bottom: 60px;
