@@ -1,10 +1,11 @@
 html,body {
 	height:100%;
-	background:white;
+	background:pink;
 }
 header {
 	display:block;
-	background:#d7e0e9;
+	background: rgb(2,0,36);
+	background: radial-gradient(circle, rgba(2,0,36,1) 0%, rgba(9,121,69,1) 35%, rgba(0,212,255,1) 100%);
 	padding:10px 0px;
 }
 section {
@@ -13,7 +14,7 @@ section {
 	overflow: auto;
 	padding-bottom: 60px;
 	padding-top:30px;
-	color: black;
+	color: DeepPink;
 }
 footer {
 	position: relative;
@@ -21,7 +22,8 @@ footer {
 	height: 40px;
 	padding:5px 0px;
 	clear: both;
-	background: #d7e0e9;
+	background: #f300ff;
 	text-align: center;
-	color: black;
+	color: GreenYellow;
+	font-size: 3rem
 }
