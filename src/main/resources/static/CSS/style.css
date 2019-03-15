@@ -13,7 +13,7 @@ section {
 	overflow: auto;
 	padding-bottom: 60px;
 	padding-top:30px;
-	color: black;
+	color: grey;
 }
 footer {
 	position: relative;
@@ -23,5 +23,5 @@ footer {
 	clear: both;
 	background: #d7e0e9;
 	text-align: center;
-	color: black;
+	color: red;
 }
