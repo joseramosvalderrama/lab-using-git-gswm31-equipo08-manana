@@ -1,5 +1,5 @@
 html,body {
-	height:100%;
+	height:75%;
 	background:blue;
 }
 header {
@@ -8,12 +8,12 @@ header {
 	padding:10px 0px;
 }
 section {
-	width: 79%;
+	width: 88%;
 	float: left;
 	overflow: auto;
 	padding-bottom: 60px;
 	padding-top:30px;
-	color: grey;
+	color: yellow;
 }
 footer {
 	position: relative;
